@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.red-title{
+  color: paleturquoise;
+  background-color: #61dafb;
+}
+
+.normal-title{
+color: darkblue;
+background-color: cornflowerblue;
+}
